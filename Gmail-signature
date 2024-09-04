@@ -1,0 +1,19 @@
+<table style="margin: 0 auto;">
+  <tr>
+    <td style="padding-right: 20px;">
+      <img src="/api/placeholder/150/200" alt="Profile Photo" style="width: 150px; height: 200px; object-fit: cover;" />
+    </td>
+    <td style="vertical-align: top; text-align: left;">
+      <h2 style="margin: 0; font-family: Arial, sans-serif;">Badrinath.M</h2>
+      <p style="margin: 5px 0; font-family: Arial, sans-serif;">Aspiring Full Stack Developer</p>
+      <div style="margin-top: 10px;">
+        <a href="https://github.com/YourGitHubUsername" target="_blank" style="text-decoration: none;">
+          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 24px; height: 24px; margin-right: 10px;" />
+        </a>
+        <a href="https://www.linkedin.com/in/YourLinkedInUsername" target="_blank" style="text-decoration: none;">
+          <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" style="width: 24px; height: 24px;" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
